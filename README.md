@@ -3,7 +3,7 @@
 Useful if your test framework is jasmine and you want to have cucumber-esqe syntax I guess.
 
 ## Learn the facade by writing a basic test
-You can run the example code immeadiately using `npx jasmine` if you want to see it in action.
+You can run the example code by using `npx jasmine` if you want to see it in action.
 
 ### 1. Declaring a basic Scenario
 ```js
